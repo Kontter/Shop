@@ -1,0 +1,41 @@
+.comment {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    margin-bottom: 15px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    color: #000;
+
+    &.opacity {
+        opacity: .8;
+    }
+
+    .comment__left {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .comment__user {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 60px;
+        height: 60px;
+        margin-bottom: 10px;
+        background-color: #b3b3b3;
+    }
+
+    .comment__body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        p {
+            margin-bottom: 10px;
+            overflow-wrap: anywhere;
+        }
+    }
+ }

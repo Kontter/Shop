@@ -1,0 +1,26 @@
+.blockFilters {
+    max-width: 256px;
+    padding: 30px 10px;
+    background-color: #e4e4e4;
+
+    .blockFilters__body{
+        max-width: 256px;
+    }
+}
+
+
+
+
+
+/* ==================================================960====================================== */
+@media (max-width: 960px) {
+    .blockFilters {
+        max-width: none;
+        width: 100%;
+
+        .blockFilters__body{
+            padding: 0 10px;
+            margin: 0 auto;
+        }
+    }
+}

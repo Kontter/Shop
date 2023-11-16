@@ -1,0 +1,1719 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "admin",
+      "basket": [
+        {
+          "id": 7,
+          "name": "Back 4 Blood",
+          "mainImage": "https://staticg.sportskeeda.com/editor/2022/04/cebf2-16505342302745-1920.jpg",
+          "genresEn": [
+            {
+              "value": "action",
+              "id": 1691845771539
+            },
+            {
+              "value": "",
+              "id": 1691845771540
+            },
+            {
+              "value": "",
+              "id": 1691845771541
+            },
+            {
+              "value": "",
+              "id": 1691845771542
+            }
+          ],
+          "price": 1350,
+          "genre1": "Экшен",
+          "genre2": "",
+          "genre3": "",
+          "genre4": "",
+          "genreEn1": "action",
+          "genreEn2": "",
+          "genreEn3": "",
+          "genreEn4": "",
+          "image1": "https://lh4.googleusercontent.com/ZquwwLrpqInGfoC_Gj8YA7bTy6IkPNEu9iSIuzHE4BIXiexiGXn4Q3zkQihvwlkhilCTIUgIyj7WhQEPYACNzgEMPMGLWEad011bhllSAy5HIJ_T1mRLQ6KiCxeuhXXj0m7nTaTO=s0",
+          "image2": "https://100pristavok.ru/upload/iblock/9e4/9e4bf60d1a2746b3e0c09ab6334f825b.jpg",
+          "image3": "https://gamearenda.ru/uploads/posts/2021-10/back-4-blood-screenshot-25.jpg",
+          "image4": "https://kg-portal.ru/img/102425/main_2x.jpg",
+          "releaseDate": 2021,
+          "RuReleaseDateCorrect": "12 октября 2021",
+          "RuDescription1": "Back 4 Blood - это игра от авторов Left 4 Dead, в которой разработчики возвращаются к своим \"истокам\". Это вновь кооперативный шутер, в котором игроков ждут полчища кровожадных зомби, множество разнообразных карт и способов этих самых зомби уничтожать. Игра позиционируется как духовный наследник дилогии Left 4 Dead, причем многие ключевые особенности этой серии в игре присутствуют. Так, кроме обычных зараженных в игре есть и уникальные враги-боссы, а пробиваться через полчища врагов предстоит в отряде из четверых.",
+          "RuDescription2": "Главным нововведением в Back 4 Blood является система карт - игроки в начале каждого уровня выбирают особые карты, которые различным образом модифицируют геймплей. К примеру, карты могут менять значения урона или показатели здоровья. К картам есть доступ и у искусственного интеллекта - он использует их для того, чтобы игроки не просто бегали по локациям, а встречались с разнообразными вызовами и трудностями.",
+          "platforms": "PC / PlayStation 5 / PlayStation 4 / Xbox Series X/S / Xbox One",
+          "publisher": "WB Games",
+          "developer": "Turtle Rock Studios",
+          "minOperatingSystem": "Windows 7 64",
+          "minProcessor": "Intel Core i5-6600 или AMD Ryzen 5 2600",
+          "minGraphics": "GeForce GTX 1050 Ti или AMD Radeon RX 570",
+          "minMemory": "8",
+          "minStorage": "40",
+          "recOperatingSystem": "Windows 10 (64 Bit)",
+          "recProcessor": "Intel Core i5-8400 или AMD Ryzen 7 1800X",
+          "recGraphics": "GeForce GTX 970 или AMD Radeon RX 590",
+          "recMemory": "12",
+          "recStorage": "50"
+        }
+      ],
+      "library": [
+        {
+          "id": 6,
+          "name": "Battlefield 1",
+          "mainImage": "https://graph.digiseller.ru/img.ashx?id_d=3162076",
+          "genresEn": [
+            {
+              "value": "action",
+              "id": 1692174311546
+            },
+            {
+              "value": "",
+              "id": 1692174311547
+            },
+            {
+              "value": "",
+              "id": 1692174311548
+            },
+            {
+              "value": "",
+              "id": 1692174311549
+            }
+          ],
+          "price": 900,
+          "genre1": "Экшен",
+          "genre2": "",
+          "genre3": "",
+          "genre4": "",
+          "genreEn1": "action",
+          "genreEn2": "",
+          "genreEn3": "",
+          "genreEn4": "",
+          "image1": "https://cdn.ag.ru/media/games/57a/57a05830d7badb66a16168e619627347.jpg",
+          "image2": "https://gameguru.ru/media/f/screens/3/19/60/3/7777.jpg",
+          "image3": "https://portagame.ru/katalog/game/ps4-game/ps4-battlefield-1_5.jpg",
+          "image4": "https://www.digiseller.ru/preview/479276/p1_3479655_f6654a1f.jpeg",
+          "releaseDate": 2016,
+          "RuReleaseDateCorrect": "21 октября 2016",
+          "RuDescription1": "Игрок может проходить сюжетную часть игры или отправиться в полномасштабные многопользовательские сражения, участие в которых одновременно могут принимать 64 игрока. Новейшая, отлично проработанная система разрушения, увлекательные режимы игры, огромное разнообразие вооружения и военной техники гарантируют самые эпические и весьма динамичные сражения среди всех серий «Battlefield».",
+          "RuDescription2": "Поле боя зовёт вас! Зовёт в славное прошлое! За всю историю существования человечества, это самое человечество нуждалось во взаимном истреблении. Так чем же этот конфликт отличается от других? Пришло время узнать это лично вам!",
+          "platforms": "PC / PlayStation 3 / Xbox 360",
+          "publisher": "Electronic Arts",
+          "developer": "EA DICE",
+          "minOperatingSystem": "64-bit Windows 7, Windows 8.1 and Windows 10",
+          "minProcessor": "Core i5 6600K / AMD FX-6350",
+          "minGraphics": "DirectX 11.0 Compatible video card with 2 GB VRAM (AMD Radeon HD 7850 / nVidia GeForce GTX 660)",
+          "minMemory": "8",
+          "minStorage": "50",
+          "recOperatingSystem": "Windows XP/Windows 71/Windows Vista",
+          "recProcessor": "Intel Core i7 4790 / AMD FX 8350 Wraith",
+          "recGraphics": "DirectX 11.0 Compatible video card (AMD Radeon RX 480 4GB / nVidia GeForce GTX 1060 3GB)",
+          "recMemory": "16",
+          "recStorage": "50"
+        },
+        {
+          "id": 2,
+          "name": "Far Cry 5",
+          "mainImage": "https://www.digiseller.ru/preview/615692/p1_3439832_d3736dee.png",
+          "genresEn": [
+            {
+              "value": "action",
+              "id": 1692174426283
+            },
+            {
+              "value": "",
+              "id": 1692174426284
+            },
+            {
+              "value": "",
+              "id": 1692174426285
+            },
+            {
+              "value": "",
+              "id": 1692174426286
+            }
+          ],
+          "price": 800,
+          "genre1": "Экшен",
+          "genreEn1": "action",
+          "genre2": "",
+          "genre3": "",
+          "genre4": "",
+          "genreEn2": "",
+          "genreEn3": "",
+          "genreEn4": "",
+          "image1": "http://static.pasifik.ru/uploads/gallery/37c356523b/8dd920aeee.jpg",
+          "image2": "https://i.playground.ru/p/T6cMF3m-pVrMnmNY3oDTrA.jpeg",
+          "image3": "https://i.playground.ru/p/WJzDGhYYOGKCbET_ded1AA.jpeg",
+          "image4": "https://yobte.ru/uploads/posts/2019-11/far-cry-5-68-foto-4.jpg",
+          "releaseDate": 2018,
+          "RuReleaseDateCorrect": "27 Марта 2018",
+          "EnReleaseDateCorrect": "27 March, 2018",
+          "DeReleaseDateCorrect": "27. Marz 2018",
+          "RuDescription1": "Far Cry 5 — это шутер от первого лица, часть серии Far Cry. Действие игры разворачивается в вымышленном округе Хоуп, штат Монтана, США, где хозяйничает культ под названием «Врата Эдема» под руководством пастора Джозефа Сида. Игрокам в роли нового шерифа штата придется противостоять этому культу, который устроил настоящий террор в округе. ",
+          "RuDescription2": "Игроки могут проходить кампанию как в одиночку, так и в кооперативе. По мере прохождения игры им будет встречаться множество персонажей, которых нужно сначала уговорить пойти вместе против Джозефа. Far Cry 5 - первая игра серии, где присутствует процесс создания и кастомизации персонажа, а также редактор карт. Кроме того, впервые в серии появляются и самолеты, что выводит игровой процесс на новый уровень.",
+          "platforms": "PC / PlayStation 4 / Xbox One",
+          "publisher": "Ubisoft",
+          "developer": "Ubisoft Montreal",
+          "minOperatingSystem": "Windows 7 SP1, Windows 8.1, Windows 10 (64-bit)",
+          "minProcessor": "Intel Core i5-2400 3,1 ГГц / AMD FX-6300 3,5 ГГц или аналогичный",
+          "minGraphics": "NVIDIA GeForce GTX 670 / AMD R9 270 (2 ГБ видеопамяти с Shader Model 5.0 или лучше)",
+          "minMemory": "8",
+          "minStorage": "40",
+          "recOperatingSystem": "Windows 7 SP1, Windows 8.1, Windows 10 (64-bit)",
+          "recProcessor": "Intel Core i7-4770 3,4 ГГц / AMD Ryzen 5 1600 3,2 ГГц или аналогичная",
+          "recGraphics": "NVIDIA GeForce GTX 970 / AMD R9 290X (4 ГБ видеопамяти с Shader Model 5.0 или лучше)",
+          "recMemory": "12",
+          "recStorage": "40"
+        },
+        {
+          "id": 1,
+          "name": "Call of Duty: Modern Warfare ",
+          "mainImage": "https://img1.akspic.ru/crops/7/0/6/0/4/140607/140607-call_of_duty_4_modern_warfare-kino-dejstvie_priklyuchencheskaya_igra-kompyuternaya_igra-priklyuchencheskaya_igra-3840x2160.jpg",
+          "genresEn": [
+            {
+              "value": "action",
+              "id": 1692256706004
+            },
+            {
+              "value": "",
+              "id": 1692256706005
+            },
+            {
+              "value": "",
+              "id": 1692256706006
+            },
+            {
+              "value": "",
+              "id": 1692256706007
+            }
+          ],
+          "price": 1000,
+          "genre1": "Экшен",
+          "genre2": "",
+          "genre3": "",
+          "genre4": "",
+          "genreEn1": "action",
+          "genreEn2": "",
+          "genreEn3": "",
+          "genreEn4": "",
+          "image1": "https://i.playground.ru/i/pix/2977310/image.jpg",
+          "image2": "https://strek-time.ru/wp-content/uploads/8/9/2/8924dd56c3b058cfe85fd16ff3528b40.jpeg",
+          "image3": "https://gameguru.ru/media/f/screens/3/25/65/51/7777.jpg",
+          "image4": "https://i.playground.ru/e/rufAwbc2DDuFIHST99i3_w.png",
+          "releaseDate": 2019,
+          "RuReleaseDateCorrect": "25 Октября 2019",
+          "EnReleaseDateCorrect": "25 October, 2019",
+          "DeReleaseDateCorrect": "25. Oktober 2019",
+          "RuDescription1": "Call of Duty: Modern Warfare (2019) - это перезапуск серии Call of Duty: Modern Warfare, в котором игроки вновь окажутся на полях сражений \"современной\" войны. В игру вернулись старые знакомые герои - такие, как капитан Прайс - а также знакомая по неоднозначной миссии No Russian из второй части серии \"серая\" мораль. Игроков ждут нелегкие решения и неоднозначные герои, которых можно называть как героями, так и негодяями.",
+          "EnDescription1": "Call of Duty: Modern Warfare (2019) is a reboot of the Call of Duty: Modern Warfare series that puts players back on the battlefields of \"modern\" warfare. Old familiar heroes returned to the game - such as Captain Price - as well as familiar from the controversial mission No Russian from the second part of the \"gray\" morality series. Players are waiting for difficult decisions and ambiguous heroes, who can be called both heroes and villains.",
+          "DeDescription1": "Call of Duty: Modern Warfare (2019) ist ein Neustart der Call of Duty: Modern Warfare-Reihe, der Spieler zurück auf die Schlachtfelder der „modernen“ Kriegsführung bringt. Altbekannte Helden kehrten ins Spiel zurück – etwa Captain Price – sowie Bekannte aus der umstrittenen Mission No Russian aus dem zweiten Teil der „Grauen“ Moralserie. Die Spieler warten auf schwierige Entscheidungen und zweideutige Helden, die sowohl Helden als auch Bösewichte genannt werden können.",
+          "RuDescription2": "Как и в других частях серии, в Modern Warfare игроков ожидает не только одиночный, но и многопользовательский режим игры.",
+          "EnDescription2": "As in other parts of the series, in Modern Warfare players will find not only a single, but also a multiplayer game mode.",
+          "DeDescription2": "Wie in anderen Teilen der Serie finden Spieler auch in Modern Warfare nicht nur einen Single-, sondern auch einen Multiplayer-Spielmodus.",
+          "platforms": "PC / PlayStation 5 / PlayStation 4 / Xbox Series X/S / Xbox One",
+          "publisher": "Activision",
+          "developer": "Infinity Ward",
+          "minOperatingSystem": "64-битные Windows 7 (SP1) или Windows 10",
+          "minProcessor": "Intel Core i3-4340 или AMD FX-6300",
+          "minGraphics": "NVIDIA GeForce GTX 670 (или GTX 1650) или AMD Radeon HD 7950",
+          "minMemory": "8",
+          "minStorage": "175",
+          "recOperatingSystem": "64-битная Windows 10",
+          "recProcessor": "Intel Core i5-2500K или AMD Ryzen R5 1600X",
+          "recGraphics": "NVIDIA GeForce GTX 970 (или GTX 1660) или AMD Radeon R9 390 (RX 580)",
+          "recMemory": "12",
+          "recStorage": "175"
+        },
+        {
+          "id": 3,
+          "name": "Assassin's Creed Unity",
+          "mainImage": "https://www.digiseller.ru/preview/692823/p1_2738725_0bd81f30.jpg",
+          "genresEn": [
+            {
+              "value": "stealth",
+              "id": 1691845610225
+            },
+            {
+              "value": "action",
+              "id": 1691845610226
+            },
+            {
+              "value": "",
+              "id": 1691845610227
+            },
+            {
+              "value": "",
+              "id": 1691845610228
+            }
+          ],
+          "price": 1500,
+          "genre1": "Экшен",
+          "genre2": "Стэлс",
+          "genre3": "",
+          "genre4": "",
+          "genreEn1": "stealth",
+          "genreEn2": "action",
+          "genreEn3": "",
+          "genreEn4": "",
+          "image1": "https://i.pinimg.com/originals/47/f2/f9/47f2f991ea011b564aa0db899d01d187.jpg",
+          "image2": "https://cybersport.metaratings.ru/storage/images/26/4b/264ba8c4b222715bfe7aaf23b596b542.jpg",
+          "image3": "https://files.vgtimes.ru/gallery/thumb/135957/1581614149_5259.jpeg",
+          "image4": "https://i.ebayimg.com/00/s/ODQ0WDE1MDA=/z/el4AAOSwW7tflFHI/$_57.JPG?set_id=8800005007",
+          "releaseDate": 2014,
+          "RuReleaseDateCorrect": "13 ноября 2014",
+          "EnReleaseDateCorrect": "13 November, 2014",
+          "DeReleaseDateCorrect": "13. November 2014",
+          "RuDescription1": "Assassin's Creed Unity - это седьмая \"основная\" часть приключенческого экшена про ассасинов и тамплиеров, действие которого разворачивается во времена Великой Французской Революции. Главным героем этой части становится молодой человек Арно Виктор Дориан, чья миссия - отмостить за убитого отца, а так же найти некоего \"Мудреца\", который понадобился ассасинам из \"настоящего времени\".",
+          "RuDescription2": "Unity от остальных частей серии отличает не только изменившийся сеттинг, но и наличие кооперативного режима на четверых игроков - некоторые миссии гораздо проще выполнить, позвав друзей на помощь. Помимо этого, игроки получили доступ к огромному ассортименту предметов для кастомизации своего ассасина, а так же к огромному Парижу образца 1798 года, который полон заданий, сокровищ и тайн.",
+          "platforms": "PC / PlayStation 4 / Xbox One",
+          "publisher": "Ubisoft Entertainment",
+          "developer": "Ubisoft Toronto",
+          "minOperatingSystem": "Windows 7 SP1, Windows 8/8.1 (64-bit operating system required)",
+          "minProcessor": "Intel Core i5-2500K @ 3.3 GHz or AMD FX-8350 @ 4.0 GHz",
+          "minGraphics": "NVIDIA GeForce GTX 680 or AMD Radeon HD 7970 (2 GB VRAM)",
+          "minMemory": "6",
+          "minStorage": "50",
+          "recOperatingSystem": "Windows 7 SP1, Windows 8/8.1 (64-bit operating system required)",
+          "recProcessor": "Intel Core i7-3770 @ 3.4 GHz or AMD FX-8350 @ 4.0 GHz or better",
+          "recGraphics": "NVIDIA GeForce GTX 780 or AMD Radeon R9 290X (3 GB VRAM)",
+          "recMemory": "8",
+          "recStorage": "50"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user": "user1",
+      "basket": [
+        {
+          "id": 6,
+          "name": "Battlefield 1",
+          "mainImage": "https://graph.digiseller.ru/img.ashx?id_d=3162076",
+          "genresEn": [
+            {
+              "value": "action",
+              "id": 1692174311546
+            },
+            {
+              "value": "",
+              "id": 1692174311547
+            },
+            {
+              "value": "",
+              "id": 1692174311548
+            },
+            {
+              "value": "",
+              "id": 1692174311549
+            }
+          ],
+          "price": 900,
+          "genre1": "Экшен",
+          "genre2": "",
+          "genre3": "",
+          "genre4": "",
+          "genreEn1": "action",
+          "genreEn2": "",
+          "genreEn3": "",
+          "genreEn4": "",
+          "image1": "https://cdn.ag.ru/media/games/57a/57a05830d7badb66a16168e619627347.jpg",
+          "image2": "https://gameguru.ru/media/f/screens/3/19/60/3/7777.jpg",
+          "image3": "https://portagame.ru/katalog/game/ps4-game/ps4-battlefield-1_5.jpg",
+          "image4": "https://www.digiseller.ru/preview/479276/p1_3479655_f6654a1f.jpeg",
+          "releaseDate": 2016,
+          "RuReleaseDateCorrect": "21 октября 2016",
+          "RuDescription1": "Игрок может проходить сюжетную часть игры или отправиться в полномасштабные многопользовательские сражения, участие в которых одновременно могут принимать 64 игрока. Новейшая, отлично проработанная система разрушения, увлекательные режимы игры, огромное разнообразие вооружения и военной техники гарантируют самые эпические и весьма динамичные сражения среди всех серий «Battlefield».",
+          "RuDescription2": "Поле боя зовёт вас! Зовёт в славное прошлое! За всю историю существования человечества, это самое человечество нуждалось во взаимном истреблении. Так чем же этот конфликт отличается от других? Пришло время узнать это лично вам!",
+          "platforms": "PC / PlayStation 3 / Xbox 360",
+          "publisher": "Electronic Arts",
+          "developer": "EA DICE",
+          "minOperatingSystem": "64-bit Windows 7, Windows 8.1 and Windows 10",
+          "minProcessor": "Core i5 6600K / AMD FX-6350",
+          "minGraphics": "DirectX 11.0 Compatible video card with 2 GB VRAM (AMD Radeon HD 7850 / nVidia GeForce GTX 660)",
+          "minMemory": "8",
+          "minStorage": "50",
+          "recOperatingSystem": "Windows XP/Windows 71/Windows Vista",
+          "recProcessor": "Intel Core i7 4790 / AMD FX 8350 Wraith",
+          "recGraphics": "DirectX 11.0 Compatible video card (AMD Radeon RX 480 4GB / nVidia GeForce GTX 1060 3GB)",
+          "recMemory": "16",
+          "recStorage": "50"
+        },
+        {
+          "id": 2,
+          "name": "Far Cry 5",
+          "mainImage": "https://www.digiseller.ru/preview/615692/p1_3439832_d3736dee.png",
+          "genresEn": [
+            {
+              "value": "action",
+              "id": 1692174426283
+            },
+            {
+              "value": "",
+              "id": 1692174426284
+            },
+            {
+              "value": "",
+              "id": 1692174426285
+            },
+            {
+              "value": "",
+              "id": 1692174426286
+            }
+          ],
+          "price": 800,
+          "genre1": "Экшен",
+          "genreEn1": "action",
+          "genre2": "",
+          "genre3": "",
+          "genre4": "",
+          "genreEn2": "",
+          "genreEn3": "",
+          "genreEn4": "",
+          "image1": "http://static.pasifik.ru/uploads/gallery/37c356523b/8dd920aeee.jpg",
+          "image2": "https://i.playground.ru/p/T6cMF3m-pVrMnmNY3oDTrA.jpeg",
+          "image3": "https://i.playground.ru/p/WJzDGhYYOGKCbET_ded1AA.jpeg",
+          "image4": "https://yobte.ru/uploads/posts/2019-11/far-cry-5-68-foto-4.jpg",
+          "releaseDate": 2018,
+          "RuReleaseDateCorrect": "27 Марта 2018",
+          "EnReleaseDateCorrect": "27 March, 2018",
+          "DeReleaseDateCorrect": "27. Marz 2018",
+          "RuDescription1": "Far Cry 5 — это шутер от первого лица, часть серии Far Cry. Действие игры разворачивается в вымышленном округе Хоуп, штат Монтана, США, где хозяйничает культ под названием «Врата Эдема» под руководством пастора Джозефа Сида. Игрокам в роли нового шерифа штата придется противостоять этому культу, который устроил настоящий террор в округе. ",
+          "RuDescription2": "Игроки могут проходить кампанию как в одиночку, так и в кооперативе. По мере прохождения игры им будет встречаться множество персонажей, которых нужно сначала уговорить пойти вместе против Джозефа. Far Cry 5 - первая игра серии, где присутствует процесс создания и кастомизации персонажа, а также редактор карт. Кроме того, впервые в серии появляются и самолеты, что выводит игровой процесс на новый уровень.",
+          "platforms": "PC / PlayStation 4 / Xbox One",
+          "publisher": "Ubisoft",
+          "developer": "Ubisoft Montreal",
+          "minOperatingSystem": "Windows 7 SP1, Windows 8.1, Windows 10 (64-bit)",
+          "minProcessor": "Intel Core i5-2400 3,1 ГГц / AMD FX-6300 3,5 ГГц или аналогичный",
+          "minGraphics": "NVIDIA GeForce GTX 670 / AMD R9 270 (2 ГБ видеопамяти с Shader Model 5.0 или лучше)",
+          "minMemory": "8",
+          "minStorage": "40",
+          "recOperatingSystem": "Windows 7 SP1, Windows 8.1, Windows 10 (64-bit)",
+          "recProcessor": "Intel Core i7-4770 3,4 ГГц / AMD Ryzen 5 1600 3,2 ГГц или аналогичная",
+          "recGraphics": "NVIDIA GeForce GTX 970 / AMD R9 290X (4 ГБ видеопамяти с Shader Model 5.0 или лучше)",
+          "recMemory": "12",
+          "recStorage": "40"
+        }
+      ],
+      "library": []
+    },
+    {
+      "id": 3,
+      "user": "user2",
+      "basket": [
+        {
+          "id": 6,
+          "name": "Battlefield 1",
+          "mainImage": "https://graph.digiseller.ru/img.ashx?id_d=3162076",
+          "genresEn": [
+            {
+              "value": "action",
+              "id": 1692174311546
+            },
+            {
+              "value": "",
+              "id": 1692174311547
+            },
+            {
+              "value": "",
+              "id": 1692174311548
+            },
+            {
+              "value": "",
+              "id": 1692174311549
+            }
+          ],
+          "price": 900,
+          "genre1": "Экшен",
+          "genre2": "",
+          "genre3": "",
+          "genre4": "",
+          "genreEn1": "action",
+          "genreEn2": "",
+          "genreEn3": "",
+          "genreEn4": "",
+          "image1": "https://cdn.ag.ru/media/games/57a/57a05830d7badb66a16168e619627347.jpg",
+          "image2": "https://gameguru.ru/media/f/screens/3/19/60/3/7777.jpg",
+          "image3": "https://portagame.ru/katalog/game/ps4-game/ps4-battlefield-1_5.jpg",
+          "image4": "https://www.digiseller.ru/preview/479276/p1_3479655_f6654a1f.jpeg",
+          "releaseDate": 2016,
+          "RuReleaseDateCorrect": "21 октября 2016",
+          "RuDescription1": "Игрок может проходить сюжетную часть игры или отправиться в полномасштабные многопользовательские сражения, участие в которых одновременно могут принимать 64 игрока. Новейшая, отлично проработанная система разрушения, увлекательные режимы игры, огромное разнообразие вооружения и военной техники гарантируют самые эпические и весьма динамичные сражения среди всех серий «Battlefield».",
+          "RuDescription2": "Поле боя зовёт вас! Зовёт в славное прошлое! За всю историю существования человечества, это самое человечество нуждалось во взаимном истреблении. Так чем же этот конфликт отличается от других? Пришло время узнать это лично вам!",
+          "platforms": "PC / PlayStation 3 / Xbox 360",
+          "publisher": "Electronic Arts",
+          "developer": "EA DICE",
+          "minOperatingSystem": "64-bit Windows 7, Windows 8.1 and Windows 10",
+          "minProcessor": "Core i5 6600K / AMD FX-6350",
+          "minGraphics": "DirectX 11.0 Compatible video card with 2 GB VRAM (AMD Radeon HD 7850 / nVidia GeForce GTX 660)",
+          "minMemory": "8",
+          "minStorage": "50",
+          "recOperatingSystem": "Windows XP/Windows 71/Windows Vista",
+          "recProcessor": "Intel Core i7 4790 / AMD FX 8350 Wraith",
+          "recGraphics": "DirectX 11.0 Compatible video card (AMD Radeon RX 480 4GB / nVidia GeForce GTX 1060 3GB)",
+          "recMemory": "16",
+          "recStorage": "50"
+        }
+      ],
+      "library": []
+    }
+  ],
+  "comments": [
+    {
+      "id": 1700139071892,
+      "user": "admin",
+      "date": "16 ноября 2023 г.",
+      "dateSort": "1700139071894",
+      "positiveComment": "positive",
+      "negativeComment": "",
+      "body": "admin 1\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "id": 1700139131696,
+      "user": "user2",
+      "date": "16 ноября 2023 г.",
+      "dateSort": "1700139131697",
+      "positiveComment": "",
+      "negativeComment": "negative",
+      "body": "user2.1"
+    },
+    {
+      "id": 1700139160221,
+      "user": "user1",
+      "date": "16 ноября 2023 г.",
+      "dateSort": "1700139160222",
+      "positiveComment": "positive",
+      "negativeComment": "",
+      "body": "user1.1"
+    },
+    {
+      "id": 1700139175821,
+      "user": "admin",
+      "date": "16 ноября 2023 г.",
+      "dateSort": "1700139175822",
+      "positiveComment": "",
+      "negativeComment": "negative",
+      "body": "admin 2"
+    },
+    {
+      "id": 1700139202039,
+      "user": "user2",
+      "date": "16 ноября 2023 г.",
+      "dateSort": "1700139202039",
+      "positiveComment": "positive",
+      "negativeComment": "",
+      "body": "user2.2"
+    },
+    {
+      "id": 1700139213969,
+      "user": "user1",
+      "date": "16 ноября 2023 г.",
+      "dateSort": "1700139213969",
+      "positiveComment": "",
+      "negativeComment": "negative",
+      "body": "user1.2"
+    },
+    {
+      "id": 1700139230707,
+      "user": "user1",
+      "date": "16 ноября 2023 г.",
+      "dateSort": "1700139230707",
+      "positiveComment": "positive",
+      "negativeComment": "",
+      "body": "Какой-то комментарий"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Call of Duty: Modern Warfare ",
+      "mainImage": "https://img1.akspic.ru/crops/7/0/6/0/4/140607/140607-call_of_duty_4_modern_warfare-kino-dejstvie_priklyuchencheskaya_igra-kompyuternaya_igra-priklyuchencheskaya_igra-3840x2160.jpg",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1692256706004
+        },
+        {
+          "value": "",
+          "id": 1692256706005
+        },
+        {
+          "value": "",
+          "id": 1692256706006
+        },
+        {
+          "value": "",
+          "id": 1692256706007
+        }
+      ],
+      "price": 1000,
+      "genre1": "Экшен",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://i.playground.ru/i/pix/2977310/image.jpg",
+      "image2": "https://strek-time.ru/wp-content/uploads/8/9/2/8924dd56c3b058cfe85fd16ff3528b40.jpeg",
+      "image3": "https://gameguru.ru/media/f/screens/3/25/65/51/7777.jpg",
+      "image4": "https://i.playground.ru/e/rufAwbc2DDuFIHST99i3_w.png",
+      "releaseDate": 2019,
+      "RuReleaseDateCorrect": "25 Октября 2019",
+      "EnReleaseDateCorrect": "25 October, 2019",
+      "DeReleaseDateCorrect": "25. Oktober 2019",
+      "RuDescription1": "Call of Duty: Modern Warfare (2019) - это перезапуск серии Call of Duty: Modern Warfare, в котором игроки вновь окажутся на полях сражений \"современной\" войны. В игру вернулись старые знакомые герои - такие, как капитан Прайс - а также знакомая по неоднозначной миссии No Russian из второй части серии \"серая\" мораль. Игроков ждут нелегкие решения и неоднозначные герои, которых можно называть как героями, так и негодяями.",
+      "EnDescription1": "Call of Duty: Modern Warfare (2019) is a reboot of the Call of Duty: Modern Warfare series that puts players back on the battlefields of \"modern\" warfare. Old familiar heroes returned to the game - such as Captain Price - as well as familiar from the controversial mission No Russian from the second part of the \"gray\" morality series. Players are waiting for difficult decisions and ambiguous heroes, who can be called both heroes and villains.",
+      "DeDescription1": "Call of Duty: Modern Warfare (2019) ist ein Neustart der Call of Duty: Modern Warfare-Reihe, der Spieler zurück auf die Schlachtfelder der „modernen“ Kriegsführung bringt. Altbekannte Helden kehrten ins Spiel zurück – etwa Captain Price – sowie Bekannte aus der umstrittenen Mission No Russian aus dem zweiten Teil der „Grauen“ Moralserie. Die Spieler warten auf schwierige Entscheidungen und zweideutige Helden, die sowohl Helden als auch Bösewichte genannt werden können.",
+      "RuDescription2": "Как и в других частях серии, в Modern Warfare игроков ожидает не только одиночный, но и многопользовательский режим игры.",
+      "EnDescription2": "As in other parts of the series, in Modern Warfare players will find not only a single, but also a multiplayer game mode.",
+      "DeDescription2": "Wie in anderen Teilen der Serie finden Spieler auch in Modern Warfare nicht nur einen Single-, sondern auch einen Multiplayer-Spielmodus.",
+      "platforms": "PC / PlayStation 5 / PlayStation 4 / Xbox Series X/S / Xbox One",
+      "publisher": "Activision",
+      "developer": "Infinity Ward",
+      "minOperatingSystem": "64-битные Windows 7 (SP1) или Windows 10",
+      "minProcessor": "Intel Core i3-4340 или AMD FX-6300",
+      "minGraphics": "NVIDIA GeForce GTX 670 (или GTX 1650) или AMD Radeon HD 7950",
+      "minMemory": "8",
+      "minStorage": "175",
+      "recOperatingSystem": "64-битная Windows 10",
+      "recProcessor": "Intel Core i5-2500K или AMD Ryzen R5 1600X",
+      "recGraphics": "NVIDIA GeForce GTX 970 (или GTX 1660) или AMD Radeon R9 390 (RX 580)",
+      "recMemory": "12",
+      "recStorage": "175"
+    },
+    {
+      "id": 2,
+      "name": "Far Cry 5",
+      "mainImage": "https://www.digiseller.ru/preview/615692/p1_3439832_d3736dee.png",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1692174426283
+        },
+        {
+          "value": "",
+          "id": 1692174426284
+        },
+        {
+          "value": "",
+          "id": 1692174426285
+        },
+        {
+          "value": "",
+          "id": 1692174426286
+        }
+      ],
+      "price": 800,
+      "genre1": "Экшен",
+      "genreEn1": "action",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "http://static.pasifik.ru/uploads/gallery/37c356523b/8dd920aeee.jpg",
+      "image2": "https://i.playground.ru/p/T6cMF3m-pVrMnmNY3oDTrA.jpeg",
+      "image3": "https://i.playground.ru/p/WJzDGhYYOGKCbET_ded1AA.jpeg",
+      "image4": "https://yobte.ru/uploads/posts/2019-11/far-cry-5-68-foto-4.jpg",
+      "releaseDate": 2018,
+      "RuReleaseDateCorrect": "27 Марта 2018",
+      "EnReleaseDateCorrect": "27 March, 2018",
+      "DeReleaseDateCorrect": "27. Marz 2018",
+      "RuDescription1": "Far Cry 5 — это шутер от первого лица, часть серии Far Cry. Действие игры разворачивается в вымышленном округе Хоуп, штат Монтана, США, где хозяйничает культ под названием «Врата Эдема» под руководством пастора Джозефа Сида. Игрокам в роли нового шерифа штата придется противостоять этому культу, который устроил настоящий террор в округе. ",
+      "RuDescription2": "Игроки могут проходить кампанию как в одиночку, так и в кооперативе. По мере прохождения игры им будет встречаться множество персонажей, которых нужно сначала уговорить пойти вместе против Джозефа. Far Cry 5 - первая игра серии, где присутствует процесс создания и кастомизации персонажа, а также редактор карт. Кроме того, впервые в серии появляются и самолеты, что выводит игровой процесс на новый уровень.",
+      "platforms": "PC / PlayStation 4 / Xbox One",
+      "publisher": "Ubisoft",
+      "developer": "Ubisoft Montreal",
+      "minOperatingSystem": "Windows 7 SP1, Windows 8.1, Windows 10 (64-bit)",
+      "minProcessor": "Intel Core i5-2400 3,1 ГГц / AMD FX-6300 3,5 ГГц или аналогичный",
+      "minGraphics": "NVIDIA GeForce GTX 670 / AMD R9 270 (2 ГБ видеопамяти с Shader Model 5.0 или лучше)",
+      "minMemory": "8",
+      "minStorage": "40",
+      "recOperatingSystem": "Windows 7 SP1, Windows 8.1, Windows 10 (64-bit)",
+      "recProcessor": "Intel Core i7-4770 3,4 ГГц / AMD Ryzen 5 1600 3,2 ГГц или аналогичная",
+      "recGraphics": "NVIDIA GeForce GTX 970 / AMD R9 290X (4 ГБ видеопамяти с Shader Model 5.0 или лучше)",
+      "recMemory": "12",
+      "recStorage": "40"
+    },
+    {
+      "id": 3,
+      "name": "Assassin's Creed Unity",
+      "mainImage": "https://www.digiseller.ru/preview/692823/p1_2738725_0bd81f30.jpg",
+      "genresEn": [
+        {
+          "value": "stealth",
+          "id": 1691845610225
+        },
+        {
+          "value": "action",
+          "id": 1691845610226
+        },
+        {
+          "value": "",
+          "id": 1691845610227
+        },
+        {
+          "value": "",
+          "id": 1691845610228
+        }
+      ],
+      "price": 1500,
+      "genre1": "Экшен",
+      "genre2": "Стэлс",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "stealth",
+      "genreEn2": "action",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://i.pinimg.com/originals/47/f2/f9/47f2f991ea011b564aa0db899d01d187.jpg",
+      "image2": "https://cybersport.metaratings.ru/storage/images/26/4b/264ba8c4b222715bfe7aaf23b596b542.jpg",
+      "image3": "https://files.vgtimes.ru/gallery/thumb/135957/1581614149_5259.jpeg",
+      "image4": "https://i.ebayimg.com/00/s/ODQ0WDE1MDA=/z/el4AAOSwW7tflFHI/$_57.JPG?set_id=8800005007",
+      "releaseDate": 2014,
+      "RuReleaseDateCorrect": "13 ноября 2014",
+      "EnReleaseDateCorrect": "13 November, 2014",
+      "DeReleaseDateCorrect": "13. November 2014",
+      "RuDescription1": "Assassin's Creed Unity - это седьмая \"основная\" часть приключенческого экшена про ассасинов и тамплиеров, действие которого разворачивается во времена Великой Французской Революции. Главным героем этой части становится молодой человек Арно Виктор Дориан, чья миссия - отмостить за убитого отца, а так же найти некоего \"Мудреца\", который понадобился ассасинам из \"настоящего времени\".",
+      "RuDescription2": "Unity от остальных частей серии отличает не только изменившийся сеттинг, но и наличие кооперативного режима на четверых игроков - некоторые миссии гораздо проще выполнить, позвав друзей на помощь. Помимо этого, игроки получили доступ к огромному ассортименту предметов для кастомизации своего ассасина, а так же к огромному Парижу образца 1798 года, который полон заданий, сокровищ и тайн.",
+      "platforms": "PC / PlayStation 4 / Xbox One",
+      "publisher": "Ubisoft Entertainment",
+      "developer": "Ubisoft Toronto",
+      "minOperatingSystem": "Windows 7 SP1, Windows 8/8.1 (64-bit operating system required)",
+      "minProcessor": "Intel Core i5-2500K @ 3.3 GHz or AMD FX-8350 @ 4.0 GHz",
+      "minGraphics": "NVIDIA GeForce GTX 680 or AMD Radeon HD 7970 (2 GB VRAM)",
+      "minMemory": "6",
+      "minStorage": "50",
+      "recOperatingSystem": "Windows 7 SP1, Windows 8/8.1 (64-bit operating system required)",
+      "recProcessor": "Intel Core i7-3770 @ 3.4 GHz or AMD FX-8350 @ 4.0 GHz or better",
+      "recGraphics": "NVIDIA GeForce GTX 780 or AMD Radeon R9 290X (3 GB VRAM)",
+      "recMemory": "8",
+      "recStorage": "50"
+    },
+    {
+      "id": 4,
+      "name": "Grand Theft Auto V",
+      "mainImage": "https://yt3.googleusercontent.com/ytc/AL5GRJW4V9bxzhmJ693oxYmFH5hYIWZKUExgjfj-kLpK=s900-c-k-c0x00ffffff-no-rj",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845624907
+        },
+        {
+          "value": "",
+          "id": 1691845624908
+        },
+        {
+          "value": "",
+          "id": 1691845624909
+        },
+        {
+          "value": "",
+          "id": 1691845624910
+        }
+      ],
+      "price": 1000,
+      "genre1": "Экшен",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://kingame.ru/wp-content/uploads/0/9/6/096dac6547499f50ff7e528d98ff0e04.jpeg",
+      "image2": "https://gameli.ru/wp-content/uploads/2016/01/GTA5-gameli2016-8f.jpg",
+      "image3": "https://gameli.ru/wp-content/uploads/2016/01/GTA5-gameli2016-3f.jpg",
+      "image4": "https://mobimg.b-cdn.net/v3/fetch/51/511ff35715338e57a7d81cd1ab72b8fe.jpeg",
+      "releaseDate": 2013,
+      "RuReleaseDateCorrect": "17 сентября 2013",
+      "EnReleaseDateCorrect": "17 September, 2013",
+      "DeReleaseDateCorrect": "17. September 2013",
+      "RuDescription1": "Grand Theft Auto V (она же GTA 5 или GTA V) — пятнадцатая игра из серии Grand Theft Auto, выполненная в жанре Action/Sandbox. Впервые в истории серии в игре присутствуют сразу три главных героя, между которыми можно переключаться почти в любое время. Игроку предоставлена полная свобода действий - он может путешествовать по городу и его окрестностям, грабить прохожих, воровать машины - или же жить простой жизнью обычного человека. Каждый из героев имеет свои уникальные особенности - один может замедлять время, пока едет на машине, второй умеет замедлять время в перестрелках, ну а третий может становиться безумным берсерком, увеличивая наносимый врагам урон.",
+      "RuDescription2": "Местом действия Grand Theft Auto V стал вымышленный город Лос-Сантос, который впервые появился в одной из предыдущих игр серии — Grand Theft Auto: San Andreas. События игры разворачиваются в 2013 году, когда бывшие друзья и грабители банков Тревор и Майкл вновь встречаются вместе. Основная цель игрока - обнести Федеральное Хранилище США, унеся с собой более двухста миллионов. На пути к этой цели друзей будет ждать множество препятствий, которые приведут к одной из трех концовок - чего ранее не было ни в одной части серии.",
+      "platforms": "PC / PlayStation 5 / PlayStation 4 / Xbox Series X/S / Xbox One",
+      "publisher": "2K Games",
+      "developer": "Rockstar Games",
+      "minOperatingSystem": "Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2",
+      "minProcessor": "Intel Core 2 Q6600 @ 2.40 Ггц (четырехъядерный) / AMD Phenom 9850 (четырехъядерный) @ 2.5 Ггц",
+      "minGraphics": "NVIDIA 9800 GT c 1 Гб видеопамяти/ AMD HD 4870 с 1 Гб видеопамяти (DX 10, 10.1, 11)",
+      "minMemory": "4",
+      "minStorage": "65",
+      "recOperatingSystem": "Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1",
+      "recProcessor": "Intel Core i5 3470 @ 3.2 Ггц (четырехъядерный) / AMD X8 FX-8350 @ 4 Ггц (восьмиядерный)",
+      "recGraphics": "NVIDIA GTX 660 с 2 Гб видеопамяти / AMD HD7870 с 2 Гб видеопамяти",
+      "recMemory": "8",
+      "recStorage": "65"
+    },
+    {
+      "id": 5,
+      "name": "The Elder Scrolls V: Skyrim",
+      "mainImage": "https://cache3.youla.io/files/images/780_780/5c/07/5c07e6ac93800058bb45e566.jpg",
+      "genresEn": [
+        {
+          "value": "action/RPG",
+          "id": 1691845743185
+        },
+        {
+          "value": "",
+          "id": 1691845743186
+        },
+        {
+          "value": "",
+          "id": 1691845743187
+        },
+        {
+          "value": "",
+          "id": 1691845743188
+        }
+      ],
+      "price": 1200,
+      "genre1": "Экшен/РПГ",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action/RPG",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://u.kanobu.ru/editor/images/35/4f8f00ab-7148-4860-992f-c6ba03c3e595.jpg",
+      "image2": "https://m.games.mail.ru/hotbox/content_files/gallery/2019/10/14/a60ab7363cec44a38e90e7b9554a43e4.jpg",
+      "image3": "https://www.digiseller.ru/preview/252900/p1_2555676_cf3b11b5.jpg",
+      "image4": "https://www.stratege.ru/sites/default/files/gallery/2/85a/c30/faf21399ad7165fc2dc40ec259c5210c.jpg",
+      "releaseDate": 2011,
+      "RuReleaseDateCorrect": "11 ноября 2011",
+      "RuDescription1": "The Elder Scrolls V: Skyrim - это приключенческая ролевая игра, пятая часть в серии The Elder Scrolls, с огромным открытым миром, который с самого начала полностью доступен для исследования. Игрокам предстоит выступить в роли Довакина, Драконорожденного, который появляется в провинции Скайрим аккурат во время возвращения легендарных драконов, которые, по преданию, собираются разрушить мир. Довакину предстоит преодолеть множество трудностей на пути к своей цели - остановить драконьего повелителя Алдуина, который готовится обрушить свою ярость на весь мир. ",
+      "RuDescription2": "Игроки вольны выбирать, проходить им сюжетную линию, заняться побочными заданиями или же просто бродить по миру. В Skyrim нет четкого понятия \"класс персонажа\" - протагониста можно развивать, как понравится игроку, создавая всевозможные комбинации из стандартных \"ролевых\" классов.",
+      "platforms": "PC / PlayStation 3 / Xbox 360",
+      "publisher": "Bethesda Softworks",
+      "developer": "Bethesda Softworks",
+      "minOperatingSystem": "Windows XP/Windows 71/Windows Vista",
+      "minProcessor": "Intel Core 2 Duo 2 GHz",
+      "minGraphics": "NVIDIA GeForce 8800 GT",
+      "minMemory": "3",
+      "minStorage": "8",
+      "recOperatingSystem": "Windows XP/Windows 71/Windows Vista",
+      "recProcessor": "Intel Core i5 2 GHz",
+      "recGraphics": "ATI Radeon HD 5850/NVIDIA GeForce GTX 460",
+      "recMemory": "6",
+      "recStorage": "8"
+    },
+    {
+      "id": 6,
+      "name": "Battlefield 1",
+      "mainImage": "https://graph.digiseller.ru/img.ashx?id_d=3162076",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1692174311546
+        },
+        {
+          "value": "",
+          "id": 1692174311547
+        },
+        {
+          "value": "",
+          "id": 1692174311548
+        },
+        {
+          "value": "",
+          "id": 1692174311549
+        }
+      ],
+      "price": 900,
+      "genre1": "Экшен",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://cdn.ag.ru/media/games/57a/57a05830d7badb66a16168e619627347.jpg",
+      "image2": "https://gameguru.ru/media/f/screens/3/19/60/3/7777.jpg",
+      "image3": "https://portagame.ru/katalog/game/ps4-game/ps4-battlefield-1_5.jpg",
+      "image4": "https://www.digiseller.ru/preview/479276/p1_3479655_f6654a1f.jpeg",
+      "releaseDate": 2016,
+      "RuReleaseDateCorrect": "21 октября 2016",
+      "RuDescription1": "Игрок может проходить сюжетную часть игры или отправиться в полномасштабные многопользовательские сражения, участие в которых одновременно могут принимать 64 игрока. Новейшая, отлично проработанная система разрушения, увлекательные режимы игры, огромное разнообразие вооружения и военной техники гарантируют самые эпические и весьма динамичные сражения среди всех серий «Battlefield».",
+      "RuDescription2": "Поле боя зовёт вас! Зовёт в славное прошлое! За всю историю существования человечества, это самое человечество нуждалось во взаимном истреблении. Так чем же этот конфликт отличается от других? Пришло время узнать это лично вам!",
+      "platforms": "PC / PlayStation 3 / Xbox 360",
+      "publisher": "Electronic Arts",
+      "developer": "EA DICE",
+      "minOperatingSystem": "64-bit Windows 7, Windows 8.1 and Windows 10",
+      "minProcessor": "Core i5 6600K / AMD FX-6350",
+      "minGraphics": "DirectX 11.0 Compatible video card with 2 GB VRAM (AMD Radeon HD 7850 / nVidia GeForce GTX 660)",
+      "minMemory": "8",
+      "minStorage": "50",
+      "recOperatingSystem": "Windows XP/Windows 71/Windows Vista",
+      "recProcessor": "Intel Core i7 4790 / AMD FX 8350 Wraith",
+      "recGraphics": "DirectX 11.0 Compatible video card (AMD Radeon RX 480 4GB / nVidia GeForce GTX 1060 3GB)",
+      "recMemory": "16",
+      "recStorage": "50"
+    },
+    {
+      "id": 7,
+      "name": "Back 4 Blood",
+      "mainImage": "https://staticg.sportskeeda.com/editor/2022/04/cebf2-16505342302745-1920.jpg",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845771539
+        },
+        {
+          "value": "",
+          "id": 1691845771540
+        },
+        {
+          "value": "",
+          "id": 1691845771541
+        },
+        {
+          "value": "",
+          "id": 1691845771542
+        }
+      ],
+      "price": 1350,
+      "genre1": "Экшен",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://lh4.googleusercontent.com/ZquwwLrpqInGfoC_Gj8YA7bTy6IkPNEu9iSIuzHE4BIXiexiGXn4Q3zkQihvwlkhilCTIUgIyj7WhQEPYACNzgEMPMGLWEad011bhllSAy5HIJ_T1mRLQ6KiCxeuhXXj0m7nTaTO=s0",
+      "image2": "https://100pristavok.ru/upload/iblock/9e4/9e4bf60d1a2746b3e0c09ab6334f825b.jpg",
+      "image3": "https://gamearenda.ru/uploads/posts/2021-10/back-4-blood-screenshot-25.jpg",
+      "image4": "https://kg-portal.ru/img/102425/main_2x.jpg",
+      "releaseDate": 2021,
+      "RuReleaseDateCorrect": "12 октября 2021",
+      "RuDescription1": "Back 4 Blood - это игра от авторов Left 4 Dead, в которой разработчики возвращаются к своим \"истокам\". Это вновь кооперативный шутер, в котором игроков ждут полчища кровожадных зомби, множество разнообразных карт и способов этих самых зомби уничтожать. Игра позиционируется как духовный наследник дилогии Left 4 Dead, причем многие ключевые особенности этой серии в игре присутствуют. Так, кроме обычных зараженных в игре есть и уникальные враги-боссы, а пробиваться через полчища врагов предстоит в отряде из четверых.",
+      "RuDescription2": "Главным нововведением в Back 4 Blood является система карт - игроки в начале каждого уровня выбирают особые карты, которые различным образом модифицируют геймплей. К примеру, карты могут менять значения урона или показатели здоровья. К картам есть доступ и у искусственного интеллекта - он использует их для того, чтобы игроки не просто бегали по локациям, а встречались с разнообразными вызовами и трудностями.",
+      "platforms": "PC / PlayStation 5 / PlayStation 4 / Xbox Series X/S / Xbox One",
+      "publisher": "WB Games",
+      "developer": "Turtle Rock Studios",
+      "minOperatingSystem": "Windows 7 64",
+      "minProcessor": "Intel Core i5-6600 или AMD Ryzen 5 2600",
+      "minGraphics": "GeForce GTX 1050 Ti или AMD Radeon RX 570",
+      "minMemory": "8",
+      "minStorage": "40",
+      "recOperatingSystem": "Windows 10 (64 Bit)",
+      "recProcessor": "Intel Core i5-8400 или AMD Ryzen 7 1800X",
+      "recGraphics": "GeForce GTX 970 или AMD Radeon RX 590",
+      "recMemory": "12",
+      "recStorage": "50"
+    },
+    {
+      "id": 8,
+      "name": "Ведьмак 3: Дикая Охота",
+      "mainImage": "https://arenter.ru/upload/product/1200/1af6f0423b94fff4401a545fcbad3a2c/full.jpg",
+      "genresEn": [
+        {
+          "value": "action/RPG",
+          "id": 1691845773215
+        },
+        {
+          "value": "",
+          "id": 1691845773216
+        },
+        {
+          "value": "",
+          "id": 1691845773217
+        },
+        {
+          "value": "",
+          "id": 1691845773218
+        }
+      ],
+      "price": 1700,
+      "genre1": "Экшен/РПГ",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action/RPG",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://pic.rutubelist.ru/video/84/cf/84cf6b4c3fdffe9ae8889d4805849196.jpg",
+      "image2": "https://gameguru.ru/clf/65/5b/76/16/news.the_witcher_3_wild_hunt_geralt_torching_his_enemies.jpg",
+      "image3": "https://wog-nsk.ru/image/catalog/PhotoGame/Nintendo%20switch/Ведьмак%203.jpg",
+      "image4": "https://omegagame.ru/upload/iblock/d7e/mjdt9v30c84dt48b379vdqddv3eh32jq.jpg",
+      "releaseDate": 2015,
+      "RuReleaseDateCorrect": "19 мая 2015",
+      "RuDescription1": "The Witcher 3: Wild Hunt -  компьютерная ролевая игра по мотивам серии романов «Ведьмак» польского писателя Анджея Сапковского, продолжение игр «Ведьмак» и «Ведьмак 2: Убийцы королей». Заключительная часть трилогии. Игроку вновь отводится роль Геральта, ведьмака, убивающего монстров. После событий второй части Геральт возвращает утраченные воспоминания, и оказывается на перепутье. В Северных королевствах бушует война, а неожиданно вернувшаяся Йеннифэр, подруга Геральта, просит его помочь с поисками Цириллы, Дитя-неожиданности, которая может остановить пришествие Дикой Охоты. Геральт отправляется в опасное путешествие по разоренным войной землям, чтобы найти Цири и сокрушить Дикую Охоту раз и навсегда.",
+      "RuDescription2": "По сравнению со второй частью игра преобразилась - боевая система стала несколько проще и продуманнее, Знаки стали более полезными, а сам Геральт теперь предстает перед игроками как настоящий охотник на монстров - человек, который выполняет контракты на уничтожение чудищ. Помимо основной сюжетной линии, события которой разворачиваются на трех огромных локациях, Геральт может так же исследовать Северные королевства, помогая людям с их проблемами, или же просто путешествуя в свое удовольствие. В распоряжении Геральта появляется личная лошадь, а так же возможность быстрого перемещения между локациями. Помимо этого, в The Witcher 3 встроено несколько новых мини-игр, среди которых есть даже коллекционная карточная игра. ",
+      "platforms": "PC / PlayStation 5 / PlayStation 4 / Nintendo Switch / Xbox Series X/S / Xbox One",
+      "publisher": "Namco Bandai Games",
+      "developer": "CD Projekt RED",
+      "minOperatingSystem": "64-bit Windows 7, 64-bit Windows 8 (8.1) or 64-bit Windows 10",
+      "minProcessor": "Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940",
+      "minGraphics": "Nvidia GPU GeForce GTX 660 / AMD GPU Radeon HD 7870",
+      "minMemory": "6",
+      "minStorage": "35",
+      "recOperatingSystem": "64-bit Windows 7, 64-bit Windows 8 (8.1) or 64-bit Windows 10",
+      "recProcessor": "Intel CPU Core i7 3770 3.4 GHz / AMD CPU AMD FX-8350 4 GHz",
+      "recGraphics": "Nvidia GPU GeForce GTX 770 / AMD GPU Radeon R9 290",
+      "recMemory": "8",
+      "recStorage": "35"
+    },
+    {
+      "id": 9,
+      "name": "Dishonored",
+      "mainImage": "https://www.digiseller.ru/preview/252900/p1_2927075_b9c3b723.jpg",
+      "genresEn": [
+        {
+          "value": "stealth",
+          "id": 1691845774726
+        },
+        {
+          "value": "",
+          "id": 1691845774727
+        },
+        {
+          "value": "",
+          "id": 1691845774728
+        },
+        {
+          "value": "",
+          "id": 1691845774729
+        }
+      ],
+      "price": 1100,
+      "genre1": "Стэлс",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "stealth",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://cdn.ag.ru/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg",
+      "image2": "https://games.mail.ru/hotbox/content_files/gallery/9c/34/49706621.jpeg",
+      "image3": "https://www.digiseller.ru/preview/1040376/p1_3586620_633e760e.jpg",
+      "image4": "https://i.playground.ru/p/ZJCGLrjv3dolu8nTkb8oIw.jpeg",
+      "releaseDate": 2012,
+      "RuReleaseDateCorrect": "12 октября 2012",
+      "RuDescription1": "Dishonored — это стелс-экшен от первого лица с элементами ролевой игры, выполненный в стилистике стимпанка. События игры разворачиваются в охваченном эпидемией чумы вымышленном городе Дануолл, прообразом которого послужил Лондон времен Викторианской эпохи. Главный герой игры, лорд-защитник Корво Аттано, после обвинения в убийстве императрицы и побега из тюрьмы пытается отомстить своим врагам, примкнув к повстанческой группировке, которая планирует свергнуть лорда-регента, и дать власть в руки принцессе Эмилии. ",
+      "RuDescription2": "Корво действует в качестве наемного убийцы, задачей которого в каждой отдельной миссии является поиск и убийство или бескровное устранение (одного из персонажей, например, можно сослать в шахты) определенного персонажа. Помимо огромного арсенала разного оружия, Корво так же обладает сверхъестественными способностями, которыми его наделил некто Чужой.  Ключевой особенностью игры является нелинейность прохождения: каждую миссию можно выполнить множеством путей, как вступая в бой с различными противниками, так и действуя скрытно и избегая обнаружения, причем абсолютно все действия Корво приводят к определенным последствиям, что в конце игры повлияет на концовку.",
+      "platforms": "Windows / Xbox 360 / PlayStation 3 / Xbox One / PlayStation 4",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "minOperatingSystem": "Windows Vista / Windows 7",
+      "minProcessor": "двухъядерный с тактовой частотой 3,0 ГГц или выше",
+      "minGraphics": "с 512 МБ видеопамяти и более, совместимая с DirectX 9 (NVIDIA GeForce GTX 460 / ATI Radeon HD 5850)",
+      "minMemory": "3",
+      "minStorage": "9",
+      "recOperatingSystem": "Windows Vista / Windows 7 (улучшенная поддержка 64-разрядных ОС)",
+      "recProcessor": "четырехъядерный с тактовой частотой 2,4 ГГц или лучше (улучшенная поддержка многоядерных процессоров)",
+      "recGraphics": "с 768 МБ видеопамяти и более, совместимая с DirectX 9 (NVIDIA GeForce GTX 460 / ATI Radeon HD 5850)",
+      "recMemory": "4",
+      "recStorage": "9"
+    },
+    {
+      "id": 10,
+      "name": "Portal",
+      "mainImage": "https://games.mail.ru/hotbox/content_files/news/2018/12/4923677.jpeg",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845775942
+        },
+        {
+          "value": "",
+          "id": 1691845775943
+        },
+        {
+          "value": "",
+          "id": 1691845775944
+        },
+        {
+          "value": "",
+          "id": 1691845775945
+        }
+      ],
+      "price": 890,
+      "genre1": "Экшен",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://media.moddb.com/images/downloads/1/74/73148/400_screenshots_2014-08-08_00001.jpg",
+      "image2": "https://thingwhatever.files.wordpress.com/2012/11/portal_test_chamber_00.png",
+      "image3": "http://ambilights.ru/_ld/7/10082697.jpeg",
+      "image4": "https://android-phonez.ru/wp-content/uploads/2022/02/port5.jpg",
+      "releaseDate": 2007,
+      "RuReleaseDateCorrect": "10 октября 2007",
+      "RuDescription1": "Portal - игра в жанре First Person Puzzle,  вышедшая в составе сборника The Orange Box. События игры разворачиваются во вселенной Half-Life, в Лаборатории исследования природы порталов, однако к сюжету самого Half-Life Portal не имеет никакого отношения. Главную героиню произведения зовут Челл, которая при помощи ручного портального устройства может создавать порталы, сквозь которые она способна передвигаться или перемещать предметы.",
+      "RuDescription2": "Вся игра состоит из 19 тестовых комнат, переходы между которыми осуществляются с помощью лифта, а также ряда подсобных помещений. По мере прохождения для решения все усложняющихся головоломок игроку предстоит комбинировать различные приемы. Большую часть игры Челл путешествует под надзором суперкомпьютера GLaDOS, однако под конец игры Челл выходит из под контроля компьютера и пытается сбежать из Лаборатории. ",
+      "platforms": "PC / Android / PlayStation 3 / Xbox 360",
+      "publisher": "Electronic Arts",
+      "developer": "Valve Corporation",
+      "minOperatingSystem": "Windows® 7 (32/64-разрядная)/Vista/XP",
+      "minProcessor": "Процессор 1,7 ГГц",
+      "minGraphics": "видеокарта с поддержкой DirectX® 8.1 (требуется поддержка SSE)",
+      "minMemory": "1",
+      "minStorage": "2",
+      "recOperatingSystem": "Windows® 7 (32/64-разрядная)/Vista/XP",
+      "recProcessor": "Процессор Pentium 4 (3 ГГц или лучше)",
+      "recGraphics": "видеокарта с поддержкой DirectX® 9",
+      "recMemory": "1",
+      "recStorage": "2"
+    },
+    {
+      "id": 11,
+      "name": "BioShock Infinite",
+      "mainImage": "https://i.playground.ru/e/7Da7czAcTMIYKWc9_-9vFA.jpeg",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845778248
+        },
+        {
+          "value": "",
+          "id": 1691845778249
+        },
+        {
+          "value": "",
+          "id": 1691845778250
+        },
+        {
+          "value": "",
+          "id": 1691845778251
+        }
+      ],
+      "price": 1230,
+      "genre1": "Экшен",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://www.digiseller.ru/preview/245138/p1_2428865_cf2c79d7.jpg",
+      "image2": "https://static-sl.insales.ru/images/products/1/6982/441736006/tcvista_ONLINE_1533.jpg",
+      "image3": "https://i2.imageban.ru/out/2022/08/03/2737d6c868d810cf763a7e20cc8e3824.jpg",
+      "image4": "https://www.fonstola.ru/images/201405/fonstola.ru_145377.jpg",
+      "releaseDate": 2013,
+      "RuReleaseDateCorrect": "26 марта 2013",
+      "RuDescription1": "BioShock Infinite — это приключенческий экшен от первого лица, события которого разворачиваются задолго до событий BioShock и BioShock 2 - в 1912 году. Главным героем игры становится частный детектив Букер ДеВитт, которого нанял неизвестный человек, чтобы вызволить девушку по имени Элизабет из парящего города под названием Колумбия. Букер берется за задание, и отправляется на небеса, где ему и Элизабет предстоит быть втянутыми в разрушительную войну между правительством города и повстанческой группировкой \"Глас Народа\". Постепенно, шаг за шагом, Букер и Элизабет приближаются к разгадке мрачной тайны, которая витает над городом.",
+      "RuDescription2": "Геймплейно игра напоминает вторую часть серии - Букер способен использовать особые силы и огнестрельное оружие, чтобы противостоять многочисленным врагам. Помимо этого Букер может использовать особый \"небесный крюк\", который позволяет ему перемещаться по особым рельсам, проложенным между островами летающего города. Благодаря этому схватки выходят зрелищными и быстрыми, а их результат зависит только от ловкости рук игрока и скорости его реакции. ",
+      "platforms": "PC / Nintendo Switch / PlayStation 3 / Xbox 360",
+      "publisher": "2K Games",
+      "developer": "Irrational Games",
+      "minOperatingSystem": "32-разрядная Windows Vista c пакетом обновления 2",
+      "minProcessor": "Intel Core 2 DUO с тактовой частотой 2,4 ГГц или AMD Athlon X2 с тактовой частотой 2,7 ГГц",
+      "minGraphics": "поддерживающая DirectX 10, ATI Radeon HD 3870 или NVIDIA 8800 GT или Intel HD 3000",
+      "minMemory": "2",
+      "minStorage": "20",
+      "recOperatingSystem": "64-разрядная Windows 7 с пакетом обновления 1",
+      "recProcessor": "Intel Core 2 DUO с тактовой частотой 2,4 ГГц или AMD Athlon X2 с тактовой частотой 2,7 ГГц",
+      "recGraphics": "поддерживающая DirectX 11, AMD Radeon HD 6950 или NVIDIA GeForce GTX 560",
+      "recMemory": "4",
+      "recStorage": "20"
+    },
+    {
+      "id": 12,
+      "name": "Elden Ring",
+      "mainImage": "https://steams-games.shop/image/cache/catalog/%20ps4%20игр/12-1000x1000.jpg",
+      "genresEn": [
+        {
+          "value": "action/RPG",
+          "id": 1691845779972
+        },
+        {
+          "value": "",
+          "id": 1691845779973
+        },
+        {
+          "value": "",
+          "id": 1691845779974
+        },
+        {
+          "value": "",
+          "id": 1691845779975
+        }
+      ],
+      "price": 1400,
+      "genre1": "Экшен/РПГ",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action/RPG",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://d2fo16qb9vv53p.cloudfront.net/wp-content/uploads/2022/03/Elden_Ring_Tip1.jpg",
+      "image2": "https://ae04.alicdn.com/kf/A25aeeff85cec405590915d9e97a5ec24F.jpg",
+      "image3": "https://gamearenda.ru/uploads/posts/2023-01/w844twsyvv7jnkswb6ma9j.jpg",
+      "image4": "https://gamebomb.ru/files/galleries/001/0/0e/397872.jpg",
+      "releaseDate": 2022,
+      "RuReleaseDateCorrect": "25 февраля 2022",
+      "RuDescription1": "Elden Ring - это приключенческая ролевая игра от From Softare (Dark Souls) и писателя Джорджа Мартина (\"Песнь Льда и Пламени\"), события которой разворачиваются в мире, вдохновленном скандинавской мифологией. Место действия игры - Междуземье, некогда управляемое Королевой Марикой Вечной. Ее потомки присвоили себе обломки Древнего Кольца, также известные как Великие Руны, что развязало чудовищную войну. Главный герой, один из отвергнутых Междуземьем мертвецов, пытается отыскать Кольцо и восстать в качестве Старшего Лорда. ",
+      "RuDescription2": "Игроков ждет огромный открытый мир с возможностью перемещаться между локациями на лошадях, глубокая боевая система и многочисленные противники - опасные и смертоносные. Как и серия Souls, Elden Ring дает игрокам богатый выбор оружия и заклинаний, а также возможность пройти игру в кооперативе с друзьями.",
+      "platforms": " PC / PlayStation 5 / PlayStation 4 / Xbox Series X/S / Xbox One",
+      "publisher": "Bandai Namco Entertainment",
+      "developer": "From Software",
+      "minOperatingSystem": "Windows 10 (только 64-бит)",
+      "minProcessor": "AMD FX-6300 / Intel Core i3-2100",
+      "minGraphics": "AMD Radeon HD 7950 / nVidia GeForce GTX 760",
+      "minMemory": "4",
+      "minStorage": "25",
+      "recOperatingSystem": "Windows 10 (только 64-бит)",
+      "recProcessor": "AMD Ryzen 5 1400 / Intel Core i5-2500K",
+      "recGraphics": "AMD Radeon RX 570 / nVidia GeForce GTX 970",
+      "recMemory": "8",
+      "recStorage": "25"
+    },
+    {
+      "id": 13,
+      "name": "What Remains of Edith Finch",
+      "mainImage": "https://pic.rutubelist.ru/video/64/36/64366567e7f72136d57a5b4c903d3d46.jpg",
+      "genresEn": [
+        {
+          "value": "adventure",
+          "id": 1691845781346
+        },
+        {
+          "value": "",
+          "id": 1691845781347
+        },
+        {
+          "value": "",
+          "id": 1691845781348
+        },
+        {
+          "value": "",
+          "id": 1691845781349
+        }
+      ],
+      "price": 1200,
+      "genre1": "Приключение",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "adventure",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://u.kanobu.ru/editor/images/19/d88b8008-2e1a-4175-baa4-d262d56bf8ab.webp",
+      "image2": "https://yobte.ru/uploads/posts/2019-11/igra-what-remains-of-edith-finch-45-foto-18.jpg",
+      "image3": "https://gamefans.ru/uploads/posts/2022-08/games-like-stray-24.jpg",
+      "image4": "https://3dnews.ru/assets/external/illustrations/2017/04/25/951263/ss_8cf82d5dcb84a3a9c40ad62b5834a8d9d081eb05.1920x1080.jpg",
+      "releaseDate": 2017,
+      "RuReleaseDateCorrect": "25 апреля 2017",
+      "RuDescription1": "What Remains of Edith Finch - это приключенческий проект от создателей The Unfinished Swan, где девушка по имени Эдит Финч пытается выяснить прошлое своей семьи и понять, почему она единственная осталась в живых.",
+      "RuDescription2": "В роли Эдит вы исследуете колоссальный дом Финч в поисках историй, пока она исследует историю своей семьи и пытается выяснить, почему она последняя из своей семьи, оставшаяся в живых. Каждая найденная вами история позволяет вам окунуться в жизнь нового члена семьи в день их смерти, причем истории варьируются от далекого прошлого до наших дней.",
+      "platforms": "PC / PlayStation 4 / Nintendo Switch / Xbox One / iOS / Mac",
+      "publisher": "Sony Computer Entertainment / Annapurna Interactive",
+      "developer": "SCE Santa Monica Studio / Giant Sparrow",
+      "minOperatingSystem": "Windows Vista SP2 64-bit or later",
+      "minProcessor": "Intel i3 2125 3.30 GHz or later",
+      "minGraphics": "GeForce GTX 750/AMD Radeon 7790 or later",
+      "minMemory": "2",
+      "minStorage": "5",
+      "recOperatingSystem": "Windows Vista SP2 64-bit or later",
+      "recProcessor": "Intel i3 2125 3.30 GHz or later",
+      "recGraphics": "GeForce GTX 750/AMD Radeon 7790 or later",
+      "recMemory": "2",
+      "recStorage": "5"
+    },
+    {
+      "id": 14,
+      "name": "Devil May Cry 5",
+      "mainImage": "https://mobimg.b-cdn.net/v3/fetch/7e/7e1e410f39fc53ff50b24565651ac68e.jpeg",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845783028
+        },
+        {
+          "value": "",
+          "id": 1691845783029
+        },
+        {
+          "value": "",
+          "id": 1691845783030
+        },
+        {
+          "value": "",
+          "id": 1691845783031
+        }
+      ],
+      "price": 900,
+      "genre1": "Экшен",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://mobimg.b-cdn.net/v3/fetch/5c/5c696ed9f4cba83c7b48c740675422e6.jpeg",
+      "image2": "https://games.mail.ru/hotbox/content_files/gallery/6b/f8/devil_may_cry_5_screenshot_519988d2.jpeg",
+      "image3": "https://kingame.ru/wp-content/uploads/2/1/c/21c67041eb14dbc985b5b100efdaf1f4.jpeg",
+      "image4": "https://www.digiseller.ru/preview/890463/p1_3315069_fb8e2d08.jpg",
+      "releaseDate": 2019,
+      "RuReleaseDateCorrect": "8 марта 2019",
+      "RuDescription1": "Devil May Cry V - это продолжение знаменитой серии слэшеров, повествующее о истребителе демонов Данте, а также о его многочисленных товарищах и недругах. Главным героем пятой части является представленный в Devil May Cry 4 Неро, который вновь сходится в битве с белобрысым охотником на демонов. ",
+      "RuDescription2": "Помимо Неро и Данте в пятой части появился и новый персонаж - таинственный Ви, чья сила в корне отличается от силы старых знакомых. Ви умеет призывать различных существ, и сражается с их помощью - не забывая, впрочем, орудовать и мечом. Игроков ждут старые добрые сражения с полчищами демонов, колоссальные боссы, вывернутый наизнанку мир и продолжение истории о сыне демона Спарды и его товарищах и врагах. ",
+      "platforms": "PC / PlayStation 5 / PlayStation 4 / Xbox Series X/S / Xbox One",
+      "publisher": "Capcom",
+      "developer": "Capcom",
+      "minOperatingSystem": "Windows 7, 8.1 и 10",
+      "minProcessor": "Intel Core i5-4460 и AMD FX-6300",
+      "minGraphics": "NVIDIA GeForce GTX 760 или AMD Radeon R7 260x",
+      "minMemory": "8",
+      "minStorage": "35",
+      "recOperatingSystem": "Windows 7, 8.1 и 10",
+      "recProcessor": "Intel Core i7-3770 или AMD FX-9590",
+      "recGraphics": "NVIDIA GeForce GTX 1060 и AMD Radeon RX 480",
+      "recMemory": "8",
+      "recStorage": "35"
+    },
+    {
+      "id": 15,
+      "name": "Counter-Strike: Source",
+      "mainImage": "https://images.pcgamingwiki.com/1/1c/Counter-Strike_Source_Cover.jpg",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845784633
+        },
+        {
+          "value": "",
+          "id": 1691845784634
+        },
+        {
+          "value": "",
+          "id": 1691845784635
+        },
+        {
+          "value": "",
+          "id": 1691845784636
+        }
+      ],
+      "price": 900,
+      "genre1": "Экшен",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://bdolife.ru/wp-content/uploads/2022/04/1489671878_cs-source-1.jpg",
+      "image2": "https://gamerground.ru/wp-content/uploads/2019/12/3.jpg",
+      "image3": "https://www.digiseller.ru/preview/315421/p1_3159042_86d93209.jpg",
+      "image4": "https://images.gamebanana.com/img/ss/mods/93660.jpg",
+      "releaseDate": 2004,
+      "RuReleaseDateCorrect": "7 октября 2004",
+      "RuDescription1": "Counter-Strike: Source - это римейк обычного Counter-Strike, выполненный на движке от Half-Life 2. Помимо улучшенного движка, полной поддержки Steamworks и пользовательских карт разработчики так же добавили в игру достижения, несколько изменили баланс и усовершенствовали графическую составляющую, причем дважды. В 2010 году с очередным обновлением графики игра так же стала поддерживать Mac OS, новые экраны статистики и общей информации, новое отображение окончания раунда с интересными фактами об игроке, новую кинематографическую камеру смерти и 145 новых достижений.",
+      "RuDescription2": "",
+      "platforms": "PC / Mac",
+      "publisher": "Valve Software",
+      "developer": "Valve Software",
+      "minOperatingSystem": "Windows® 7 (32/64-разрядная)/Vista/XP",
+      "minProcessor": "Процессор 1,7 ГГц",
+      "minGraphics": "видеокарта с поддержкой DirectX® 8.1 (требуется поддержка SSE",
+      "minMemory": "1",
+      "minStorage": "8",
+      "recOperatingSystem": "Windows® 7 (32/64-разрядная)/Vista/XP",
+      "recProcessor": "Процессор Pentium 4 (3 ГГц или лучше)",
+      "recGraphics": "видеокарта с поддержкой DirectX® 9",
+      "recMemory": "1",
+      "recStorage": "8"
+    },
+    {
+      "id": 16,
+      "name": "Hollow Knight",
+      "mainImage": "https://graph.digiseller.ru/img.ashx?id_d=3342626",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845786279
+        },
+        {
+          "value": "adventure",
+          "id": 1691845786280
+        },
+        {
+          "value": "",
+          "id": 1691845786281
+        },
+        {
+          "value": "",
+          "id": 1691845786282
+        }
+      ],
+      "price": 1200,
+      "genre1": "",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "adventure",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://i.pinimg.com/originals/a1/62/a4/a162a4b12d43be479ab8dbcff149e0a0.jpg",
+      "image2": "https://i.pinimg.com/originals/91/51/64/915164519e4b3f0e8bd8e52a4368d227.jpg",
+      "image3": "https://i.ytimg.com/vi/BzvlMtvaJ8I/maxresdefault.jpg",
+      "image4": "https://www.digiseller.ru/preview/1074016/p1_3587288_78d61b86.png",
+      "releaseDate": "2015",
+      "RuReleaseDateCorrect": "24 февраля 2017",
+      "RuDescription1": "Hollow Knight - это \"метроидвания\", в которой игроки берут на себя роль загадочного Полого Рыцаря, чей путь лежит в глубины древнего королевства Халлоунест. Путешествуя по развалинам королевства, игроки узнают больше о прошлом этих земель, сражаются с многочисленными и крайне опасными противниками, а также совершенствуют свои боевые навыки.",
+      "RuDescription2": "После выхода игра получила три бесплатных дополнения, расширяющих и без того немаленький игровой мир - Hidden Dreams, The Grimm Troupe и Godmaster. Каждое дополнение предлагает новых боссов, новые локации, NPC и амулеты для главного героя, которые, впрочем, еще нужно заслужить - просто так в Халлоунесте ничего не бывает. ",
+      "platforms": "PC / PlayStation 4 / Nintendo Switch / Xbox One / Mac / Linux",
+      "publisher": "Team Cherry",
+      "developer": "Team Cherry",
+      "minOperatingSystem": "Windows 7",
+      "minProcessor": "Intel Core 2 Duo E5200",
+      "minGraphics": "GeForce 9800GTX (1GB)",
+      "minMemory": "4",
+      "minStorage": "9",
+      "recOperatingSystem": "Windows 10",
+      "recProcessor": "Intel Core i5",
+      "recGraphics": "GeForce GTX 560",
+      "recMemory": "8",
+      "recStorage": "9"
+    },
+    {
+      "id": 17,
+      "name": "Mafia II ",
+      "mainImage": "https://i.pinimg.com/originals/4a/48/bc/4a48bcba652defb62fd98f0238485687.jpg",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845792591
+        },
+        {
+          "value": "",
+          "id": 1691845792592
+        },
+        {
+          "value": "",
+          "id": 1691845792593
+        },
+        {
+          "value": "",
+          "id": 1691845792594
+        }
+      ],
+      "price": 1100,
+      "genre1": "",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://i.pinimg.com/originals/cb/29/9d/cb299d672ccc4f70abbe9528437e4cbb.jpg",
+      "image2": "https://www.fonstola.ru/images/201308/fonstola.ru_105235.jpg",
+      "image3": "https://pic.rutubelist.ru/video/02/81/0281cc90b2e5389551a04c51bd1f1a52.jpg",
+      "image4": "https://files.vgtimes.ru/gallery/main/146805/mafiya-mafia-2-vito-skaletta-dozhd.jpg",
+      "releaseDate": "2010",
+      "RuReleaseDateCorrect": "27 августа 2010",
+      "RuDescription1": "Mafia 2  - это приключенческий экшен, который переносит игроков в преступный мир Америки 40-50-х годов прошлого века. События игры стартуют в феврале 1945 года, когда еще идет Вторая Мировая война. Вито Скарлетта, главный герой игры, еще молод и неопытен, он только что вернулся из армии и жаждет найти себя в жизни. Вместе с Джо он пытается доказать мафии свою состоятельность, играя роль рядового гангстера. ",
+      "RuDescription2": "Вся сюжетная линия второй Mafia построена по мотивам событий, происходивших в США в конце первой половины ХХ века, когда в стране невиданно разрослись мафиозные кланы. Местом развития захватывающих событий станет город Эмпайр Бэй, прототипом которого выступил Чикаго. Вито Скарлетте приходится поначалу гнуть спину на мафию для того, чтобы отдать долги своего отца, однако в определенный момент ему хочется большего, и он с головой окунается в мир криминала, который сулит ему деньги, известность и, одновременно с этим, огромный риск.\n\nВпрочем, в Mafia 2 есть возможность не только выполнять задания - игрок волен просто бродить по городу, обноаляя свой гардероб, покупая новые машины, или же попросту осматривая достопримечательности и слушая джазовую музыку. ",
+      "platforms": "PC / PlayStation 3 / Xbox 360",
+      "publisher": "2K Games",
+      "developer": "2K Czech",
+      "minOperatingSystem": "Windows XP/Windows 71/Windows Vista",
+      "minProcessor": "Intel Pentium D 3 GHz",
+      "minGraphics": "ATI Radeon HD 2600 Pro/NVIDIA GeForce 8600 GS",
+      "minMemory": "1.5",
+      "minStorage": "8",
+      "recOperatingSystem": " Windows XP/Windows 71/Windows Vista",
+      "recProcessor": "Intel Core 2 Quad 2 GHz",
+      "recGraphics": " ATI Radeon 9800 SE/ATI Radeon HD 3870",
+      "recMemory": "2",
+      "recStorage": "8"
+    },
+    {
+      "id": 18,
+      "name": "Need for Speed: Most Wanted",
+      "mainImage": "https://cdn.kanobu.ru/games/e17e6c57-15c6-4936-bde9-7e55eacf2e30.webp",
+      "genresEn": [
+        {
+          "value": "race",
+          "id": 1691845794673
+        },
+        {
+          "value": "",
+          "id": 1691845794674
+        },
+        {
+          "value": "",
+          "id": 1691845794675
+        },
+        {
+          "value": "",
+          "id": 1691845794676
+        }
+      ],
+      "price": 1400,
+      "genre1": "",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "race",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://darkstalker.ru/wp-content/uploads/7/3/5/7359daa7c8054ff3cab3a8886f3ab658.jpeg",
+      "image2": "https://www.digiseller.ru/preview/745445/p1_3013046_4babbc39.jpg",
+      "image3": "https://stavchess.ru/wp-content/uploads/0/e/c/0ec0a9a6edd414a4a14e29f705880e16.jpeg",
+      "image4": "https://pic.rutubelist.ru/video/26/2a/262a8a9ce28b1b4ff55b873dc4cf340e.jpg",
+      "releaseDate": "2005",
+      "RuReleaseDateCorrect": "15 ноября 2005",
+      "RuDescription1": "Need for Speed: Most Wanted - девятая игра серии аркадных гонок от Electronic Arts. Впервые за долгое время в серию вернулась полиция и появились масштабные, красивые погони. Действия игры происходят в вымышленном городе Рокпорт, в котором игроку предоставлена полная свобода перемещения. По сюжету главный герой вынужден выигрывать гонки, дабы продвигаться по так называемому \"Черному списку\" гонщиков, чтобы вернуть свой автомобиль BMW M3 GTR, который нечестным путем \"увел\" у него Рэйзор, лучший гонщик в городе и заклятый враг главного героя.",
+      "RuDescription2": "На выбор игроку предлагается огромный парк автомобилей, несколько режимов езды и гонки с полицией, от которой протагонисту предстоит прятаться до понижения уровня тревоги. Так же игроки могут сражаться в мультиплеерных сессиях, в которых могут участвовать до четырех человек одновременно. ",
+      "platforms": " PC / Android / iOS / PlayStation 2 / PlayStation Portable (PSP) / Xbox 360 / Xbox",
+      "publisher": "EA Games",
+      "developer": "EA Black Box",
+      "minOperatingSystem": "32-битная версия операционной системы Windows Vista",
+      "minMemory": "2",
+      "minStorage": "20",
+      "minGraphics": "DirectX 10.1-совместимая видеокарта с 512 МБ памяти на борту",
+      "recOperatingSystem": "32-битная версия операционной системы Windows 7",
+      "recMemory": "4",
+      "recStorage": "20",
+      "recProcessor": "2+ ядра",
+      "recGraphics": "512+ мб",
+      "minProcessor": "2 ядра"
+    },
+    {
+      "id": 19,
+      "name": "Mass Effect 3",
+      "mainImage": "https://assets.rpgsite.net/images/images/000/004/479/original/me3_shepard_1.jpg",
+      "genresEn": [
+        {
+          "value": "action/RPG",
+          "id": 1691845796435
+        },
+        {
+          "value": "",
+          "id": 1691845796436
+        },
+        {
+          "value": "",
+          "id": 1691845796437
+        },
+        {
+          "value": "",
+          "id": 1691845796438
+        }
+      ],
+      "price": 900,
+      "genre1": "",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action/RPG",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://games.mail.ru/hotbox/content_files/news/2021/05/31/f8733d36f3414e25adb81d75ae5729ee.jpg",
+      "image2": "https://sun9-31.userapi.com/BBIVc8KIhLjJu1FyI8AqLoelzjhiqZlg3uT4WA/LxCFrzkujuQ.jpg",
+      "image3": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/screenshot-036-low.jpg.adapt.crop16x9.1080p.jpg",
+      "image4": "https://www.stratege.ru/misc/news/2012/01/120129mass_effect_3_06.jpg",
+      "releaseDate": "2012",
+      "RuReleaseDateCorrect": "8 марта 2012",
+      "RuDescription1": "Mass Effect 3 - это триквел одной из популярнейших sci-fi RPG нашего времени. Действие происходит спустя некоторое время после конца второй части игры. Земля горит. Жнецы, адские разумные машины вышли из своего сектора космоса, и начали поголовное истребление как человеческой, так и остальных рас. Командор Шепард - единственная надежда Альянса и всех разумных рас Млечного Пути, вновь собирает свою команду чтобы нанести решающий удар безжалостным захватчикам, разрушающим миры и порабощающим целые народы.",
+      "RuDescription2": "К третьей части разработчики решили частично вернуться к концепции первой части - расширили арсенал, добавили новых навыков и сделали географию посещений более разнообразной. Шепарду, одному из немногих, кто еще сражается со Жнецами, предстоит не только собрать свой отряд, но и помочь членам отряда с их личными делами, многие из которых так или иначе связаны со спасением родных миров. Так же в третьей части заканчиваются сюжетные линии многих сторонних персонажей из первой и второй части серии, причем заканчиваются они при непосредственном вмешательстве протагониста. ",
+      "platforms": "PC / PlayStation 3 / Xbox 360",
+      "publisher": "Electronic Arts",
+      "developer": "BioWare",
+      "minOperatingSystem": " Windows XP SP3/Vista SP1, Win 7",
+      "minProcessor": " 1,8 ГГц Intel Core 2 Duo (аналогичный AMD)",
+      "minGraphics": "256 МБ* (с поддержкой Pixel Shader 3.0)",
+      "minMemory": "1",
+      "minStorage": "15",
+      "recOperatingSystem": " Windows XP SP3/Vista SP1, Win 7",
+      "recProcessor": " 2,4 ГГц Intel Core 2 Duo (или аналогичный AMD)",
+      "recGraphics": "AMD/ATI Radeon HD 4850 512 МБ или лучше, NVidia GeForce 9800 GT 512 МБ или лучше",
+      "recMemory": "2",
+      "recStorage": "15"
+    },
+    {
+      "id": 20,
+      "name": "Metro: Last Light",
+      "mainImage": "https://wallup.net/wp-content/uploads/2019/09/57762-video-games-metro-last-light.jpg",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845798240
+        },
+        {
+          "value": "",
+          "id": 1691845798241
+        },
+        {
+          "value": "",
+          "id": 1691845798242
+        },
+        {
+          "value": "",
+          "id": 1691845798243
+        }
+      ],
+      "price": 900,
+      "genre1": "",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://clubgta.ru/wp-content/uploads/f/5/6/f56515084fccca76f20ff78d0d124887.jpeg",
+      "image2": "https://img.zoneofgames.ru/screens/2248/34.jpg",
+      "image3": "https://kiberzona72.ru/upload/iblock/736/7363ca87734e12700a1c0c6e78675c9d.jpg",
+      "image4": "https://www.digiseller.ru/preview/936651/p1_3542555_8570630d.jpeg",
+      "releaseDate": "2013",
+      "RuReleaseDateCorrect": " 17 мая 2013",
+      "platforms": " PC / Nintendo Switch / PlayStation 3 / Xbox 360",
+      "RuDescription1": "Metro: Last Light - это сиквел оригинальной игры Метро 2033. В ней Артем, протагонист оригинальной игры и книги вновь выходит на сцену, дабы защитить метро от новой угрозы. После уничтожения улья черных Артем понимает, что сделал это совершенно зря, и теперь ищет последнего уцелевшего черного, дабы спасти его от радикально настроенных людей. Ради этого Артем пройдет огонь, воду, медные трубы, чумные станции на Красной линии, побывает на Красной Площади и спустится в самые глубины мрачного московского метрополитена, который одновременно и позволяет людям выживать после апокалипсиса, и является их самой настоящей могилой.",
+      "RuDescription2": "Игроки получат доступ к совершенно новым локациям как в метро, так и на поверхности разрушенной Москвы, пройдутся по совершенно новым станциям и познакомятся поближе с бытом людей, которые пытаются жить после апокалипсиса. В руки Артема так же попадут новые виды оружия, ну а обновленный бестиарий мутантов, разумеется, попытается пустить его на корм. По ходу игры действия Артема смогут привести к одной из двух концовок, одна из которых, как и в случае с Metro 2033 - ложная. ",
+      "publisher": "Deep Silver",
+      "developer": "4A Games",
+      "minOperatingSystem": " Windows XP (32-разрядная), Vista, 7 или 8",
+      "minProcessor": " 2,2 ГГц, 2 ядра, например, Intel Core 2 Duo",
+      "minGraphics": "поддержка DirectX 9, Shader Model 3, например, NVIDIA GTS 250 (или эквивалент от AMD – HD Radeon серии 4000) и выше",
+      "minMemory": "2",
+      "minStorage": "4",
+      "recOperatingSystem": "Windows Vista, 7 или 8",
+      "recProcessor": " 3,4 ГГц, 4 или более ядер, например, Intel Core i7",
+      "recGraphics": " NVIDIA GTX 690 / NVIDIA Titan",
+      "recMemory": "8",
+      "recStorage": "8"
+    },
+    {
+      "id": 1685362088059,
+      "name": "Tomb Raider",
+      "mainImage": "https://cdn.kanobu.ru/games/82/253a17481e9d49ccb161bbaae296f86c",
+      "genresEn": [
+        {
+          "value": "action",
+          "id": 1691845799710
+        },
+        {
+          "value": "adventure",
+          "id": 1691845799711
+        },
+        {
+          "value": "",
+          "id": 1691845799712
+        },
+        {
+          "value": "",
+          "id": 1691845799713
+        }
+      ],
+      "price": 1500,
+      "genre1": "action",
+      "genre2": "adventure",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "action",
+      "genreEn2": "adventure",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "https://i.playground.ru/p/qdZ8u9_c53OMBDyQyv34BA.jpeg",
+      "image2": "https://images.hdqwalls.com/download/tomb-raider-2020-8k-s6-2560x1700.jpg",
+      "image3": "https://mobimg.b-cdn.net/v3/fetch/58/586774b9f9889e90eddefe808101203a.jpeg",
+      "image4": "https://strek-time.ru/wp-content/uploads/3/b/8/3b8e5d83a9724383c9aa2c1553bf88a7.jpeg",
+      "releaseDate": "2013",
+      "RuReleaseDateCorrect": "5 марта 2013",
+      "EnReleaseDateCorrect": "",
+      "DeReleaseDateCorrect": "",
+      "RuDescription1": "Tomb Raider - это новая часть долгоиграющего сериала про Лару Крофт и ее акробатические и археологические способности. Новая игра полностью отрешена от остальных игр серии - ведь всю серию именно с этой игры перезапускают с нуля. В Tomb Raider молодой Ларе, который двадцать один год, предстоит оказаться на таинственном острове, куда она попадает после кораблекрушения, вызванного таинственной бурей. С этого момента Ларе предстоит сражаться за свою жизнь с бандитами, дикими животными и мистическими \"стражами бури\", с которыми связана древняя тайна острова.",
+      "EnDescription1": "",
+      "DeDescription1": "",
+      "RuDescription2": "В Tomb Raider (2013) игрокам предстоит исследовать огромный остров, пройдя его вдоль и поперек. Мир игры открытый, что позволяет Ларе пойти фактически куда угодно, хотя в некоторые места получится попасть только по сюжету или после получения определенных навыков. Героине предстоит не только путешествовать и добывать сокровища, но и защищаться от напастей, в чем ей пригодится несколько видов разного огнестрельного оружия, а так же лук, которым Лара будет вооружена на протяжении всей игры.",
+      "EnDescription2": "",
+      "DeDescription2": "",
+      "platforms": "PC / PlayStation 3 / Xbox 360 / Mac / Google Stadia",
+      "publisher": "Square Enix",
+      "developer": "Crystal Dynamics",
+      "minOperatingSystem": "Windows XP с пакетом обновления 3, Windows Vista, 7 и 8 (32- и 64-разрядные)",
+      "minProcessor": "двухъядерный, AMD Athlon64 X2 с тактовой частотой 2,1 ГГц (4050+) или Intel Core2 Duo с тактовой частотой 1,86 ГГц (E6300)",
+      "minGraphics": "поддерживающая DirectX 9 с 512 МБ видеопамяти, AMD Radeon HD 2600 XT или nVidia 8600",
+      "minMemory": "1.0",
+      "minStorage": "12.0",
+      "recOperatingSystem": "Windows Vista, Windows 7 или Windows 8",
+      "recProcessor": "четырехъядерный, AMD Phenom II X4 955 или Intel Core i5-750",
+      "recGraphics": "поддерживающая DirectX 11 с 1 ГБ видеопамяти, AMD Radeon HD 5870 или nVidia GTX 480",
+      "recMemory": "4.0",
+      "recStorage": "12.0"
+    },
+    {
+      "id": 1700140114698,
+      "name": "",
+      "mainImage": "",
+      "genresEn": [
+        {
+          "value": "",
+          "id": 1700140114698
+        },
+        {
+          "value": "",
+          "id": 1700140114699
+        },
+        {
+          "value": "",
+          "id": 1700140114700
+        },
+        {
+          "value": "",
+          "id": 1700140114701
+        }
+      ],
+      "price": "",
+      "genre1": "",
+      "genre2": "",
+      "genre3": "",
+      "genre4": "",
+      "genreEn1": "",
+      "genreEn2": "",
+      "genreEn3": "",
+      "genreEn4": "",
+      "image1": "",
+      "image2": "",
+      "image3": "",
+      "image4": "",
+      "releaseDate": "",
+      "RuReleaseDateCorrect": "",
+      "EnReleaseDateCorrect": "",
+      "DeReleaseDateCorrect": "",
+      "RuDescription1": "",
+      "EnDescription1": "",
+      "DeDescription1": "",
+      "RuDescription2": "",
+      "EnDescription2": "",
+      "DeDescription2": "",
+      "platforms": "",
+      "publisher": "",
+      "developer": "",
+      "minOperatingSystem": "",
+      "minProcessor": "",
+      "minGraphics": "",
+      "minMemory": "",
+      "minStorage": "",
+      "recOperatingSystem": "",
+      "recProcessor": "",
+      "recGraphics": "",
+      "recMemory": "",
+      "recStorage": ""
+    }
+  ]
+}

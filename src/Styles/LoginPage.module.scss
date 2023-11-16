@@ -1,0 +1,30 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    padding: 0 15px;
+    height: 100vh;
+
+    
+    .login__form {
+        max-width: 500px;
+        width: 100%;
+        padding: 30px 30px 20px 30px;
+        border: 2px solid rgb(0, 140, 255);
+
+        input {
+            width: 100%;
+        }
+    }
+
+
+
+    .login__userBlock {
+        max-width: 500px;
+        width: 100%;
+        padding: 10px;
+        border: 1px solid rgb(0, 140, 255);
+    }
+}

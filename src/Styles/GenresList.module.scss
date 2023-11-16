@@ -1,0 +1,24 @@
+.genresList__item {
+    padding: 10px;
+    background-color: white;
+    border: 1px solid transparent;
+    cursor: pointer;
+
+    &:hover {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+}
+.genresList__itemActive {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 140, 255);
+    color: white;
+    border-top: 1px solid rgba(0, 0, 0, 0.91);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.91);
+    cursor: pointer;
+}
+.genresList__item:not(:last-child) {
+    margin-bottom: 10px;
+}
+

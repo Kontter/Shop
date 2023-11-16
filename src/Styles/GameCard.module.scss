@@ -1,0 +1,249 @@
+.gameCard {
+    position: relative;
+    width: 200px;
+    height: 480px;
+    background-color: #e4e4e4;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: box-shadow .3s;
+    
+
+    .gameCard__editBtn{
+        position: absolute;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        top: 0;
+        left: 0;
+        width: 30px;
+        height: 30px;
+        border-radius: 15px 0 10px 0;
+        border: none;
+        background-color: rgb(128, 255, 124);
+        cursor: pointer;
+        transition: .3s;
+
+        .gameCard__editBtnPencil {
+            width: 20px;
+            height: 20px;
+        }
+
+    &:hover {
+        background-color: rgb(9, 255, 0);
+
+        .gameCard__editBtnPencil {
+            transform: scale(1.2);
+        }
+
+    }
+
+
+    }
+
+
+    .gameCard__deleteBtn {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 30px;
+        height: 30px;
+        border-radius: 0 15px 0 10px;
+        border: none;
+        background-color: rgb(255, 67, 67);
+        cursor: pointer;
+        transition: .3s;
+
+
+        span {
+            position: absolute;
+            display: block;
+            width: 2px;
+            height: 18px;
+            background-color: white;
+        }
+
+        span:nth-child(1) {
+            top: 7px;
+            left: 13px;
+            transform: rotate(45deg);
+        }
+        span:nth-child(2) {
+            top: 7px;
+            left: 13px;
+            transform: rotate(-45deg);
+        }
+
+        &:hover {
+            background-color: rgb(255, 0, 0);
+
+            span {
+                top: 6px;
+                height: 20px;
+            }
+        }
+
+    }
+
+    .gameCard__image {
+        height: 200px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 15px 15px 0 0;
+    }
+
+
+    .gameCard__descr {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        text-align: center;
+        height: 57%;
+    }
+
+
+    .gameCard__descrFirst {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .gameCard__title {
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+
+
+    .gameCard__genres {
+        margin-top: auto;
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-style: italic;
+    }
+
+
+    .gameCard__price {
+        margin-bottom: 10px;
+        font-weight: 700;
+        font-size: 25px;
+    }
+
+    .gameCard__cartIcon {
+        width: 0;
+        height: 0;
+    }
+
+    
+
+    &:hover {    
+        box-shadow: 0px 0px 20px 7px rgb(0, 140, 255);
+    }
+}
+
+
+
+.gameCard.view {
+    display: flex;
+    gap: 20px;
+    max-width: 700px;
+    width: 100%;
+    height: 150px;
+
+    .gameCard__image.view {
+        width: 150px;
+        height: 150px;
+    }
+
+    .gameCard__descr.view {
+        flex-direction: row;
+        width: 100%;
+        height: 100%;
+        padding: 10px 22px 10px 0;
+    }
+
+    .gameCard__descrFirst.view {
+        max-width: 300px;
+        width: 100%;
+        margin: 0 10px 0 0;
+        text-align: left;
+    }
+
+    .gameCard__descrSecond.view {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+    }
+
+    .gameCard__genres.view {
+        margin-bottom: 0;
+    }
+}
+
+
+
+
+
+/* ==================================================500====================================== */
+@media (max-width: 500px) {
+
+    .gameCard.view {
+
+        .gameCard__descrSecond.view {
+
+            max-width: 80px;
+            width: 100%;
+
+            button {
+                width: 100%;
+                padding: 5px;
+                margin: auto auto 0;
+                font-size: 0;
+            }
+
+        }
+    }
+
+
+    .gameCard__cartIcon.view {
+        width: 25px;
+        height: 25px;
+    }
+}
+
+
+/* ==================================================450====================================== */
+@media (max-width: 450px) {
+    .gameCard{
+        width: 150px;
+        height: 490px;
+
+        &.gameCard__descr{
+
+            & button:nth-child(1){
+                padding: 5px;
+            }
+        }
+
+        .gameCard__title{
+            font-size: 23px;
+        }
+
+        .gameCard__descr{
+            height: 59%;
+        }
+    }
+
+    .gameCard.view {
+
+        gap: 10px;
+
+        .gameCard__title.view {
+            font-size: 20px;
+        }
+
+        .gameCard__genres.view {
+            font-size: 16px;
+        }
+    }
+}

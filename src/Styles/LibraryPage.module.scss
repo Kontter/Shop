@@ -1,0 +1,51 @@
+.library {
+    max-width: 1440px;
+    margin: 58px auto 0;
+    padding: 10px 15px;
+
+    .library__title {
+        margin: 20px 0;
+        text-align: center;
+    }
+
+
+    .library__games {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 20px;
+    }
+}
+
+
+/* ==================================================500====================================== */
+@media (max-width: 500px) {
+    
+    .library {
+        
+        margin-top: 42px;
+        
+    }
+
+}
+
+/* ==================================================460====================================== */
+@media (max-width: 460px) {
+    
+    .library {
+        .library__games {
+            gap: 8px;
+
+            div {
+                height: 430px;
+    
+            }
+
+            p:nth-child(3) {
+                height: 52%;
+            }
+        }
+    }
+
+}

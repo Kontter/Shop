@@ -1,0 +1,111 @@
+.basket {
+    max-width: 1440px;
+    margin: 58px auto 0;
+    padding: 10px 15px;
+    box-sizing: border-box;
+
+
+    .basket__title {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+
+    .basket__priceInfo{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+
+
+        .basket__totalPrice{
+            font-size: 25px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        button{
+            display: block;
+            margin: 0 auto 0 0;
+        }
+    }
+
+
+
+    .basket__games {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    
+    .basket__btns{
+        display: flex;
+        justify-content: space-between;
+    }
+
+}
+
+
+
+
+
+/* ==================================================950====================================== */
+@media (max-width: 950px) {
+    .basket__title{
+        margin-bottom: 20px;
+    }
+
+    .basket {
+
+        .basket__priceInfo{
+            text-align: center;
+    
+            button {
+                margin: 0 auto;
+            }
+        }
+        
+    }
+
+
+}
+
+
+/* ==================================================500====================================== */
+@media (max-width: 500px) {
+
+    .basket {
+
+        margin-top: 42px;
+        
+    }
+
+
+}
+
+
+
+/* ==================================================460====================================== */
+@media (max-width: 460px) {
+    .basket__btns{
+        flex-direction: column;
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 8px;
+        }
+        button:nth-child(1) {
+            margin-bottom: 10px;
+        }
+    }
+
+
+    .basket{
+
+        .basket__games{
+            gap: 8px;
+        }
+    }
+
+}
